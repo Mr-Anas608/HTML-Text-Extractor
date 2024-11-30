@@ -31,11 +31,9 @@ This Python program is designed to fetch and clean the text content from any giv
     ```
 3. Run the program by providing the URL you want to extract text from:
     ```python
-    from html_extractor import extract_text  # Assuming you've saved the code as html_extractor.py
 
-    url = "https://www.example.com"
-    text = extract_text(url)
-    print(text)
+    Enter URL: "https://www.example.com"
+
     ```
 
 4. The output will be a clean, readable version of the text from the webpage.
